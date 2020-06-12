@@ -1,0 +1,12 @@
+@import './colors.scss';
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  background-image: radial-gradient(circle, $radial3 10%, $radial2 20%, $radial1 25%, $radial3, $radial1 , $radial2, $radial1 );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}

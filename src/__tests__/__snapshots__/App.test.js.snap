@@ -7,31 +7,33 @@ Array [
       Counters R Fun
     </h1>
   </header>,
-  <section
-    className="counter"
-  >
-    <span
-      className="down clicker"
-      onClick={[Function]}
+  <main>
+    <section
+      className="counter"
     >
-       
-      -
-       
-    </span>
-    <span
-      className="count "
-    >
-      0
-    </span>
-    <span
-      className="up clicker"
-      onClick={[Function]}
-    >
-       
-      +
-       
-    </span>
-  </section>,
+      <span
+        className="down clicker"
+        onClick={[Function]}
+      >
+         
+        -
+         
+      </span>
+      <span
+        className="count "
+      >
+        0
+      </span>
+      <span
+        className="up clicker"
+        onClick={[Function]}
+      >
+         
+        +
+         
+      </span>
+    </section>
+  </main>,
   <footer>
     © 2018 Code Fellows
   </footer>,
